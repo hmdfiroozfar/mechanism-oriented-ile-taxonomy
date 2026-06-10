@@ -16,8 +16,6 @@ code and data/
 ## Quick Dataset Summary
 
 - Total posts: `2000`
-- TikTok posts (`tt-...` IDs): `1400`
-- Bluesky posts (`bsky_...` IDs): `600`
 - `ILE found (yes/no) = yes`: `895`
 - `ILE found (yes/no) = no`: `1105`
 
